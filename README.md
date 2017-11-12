@@ -1,7 +1,7 @@
 # Cezar-Pilapil
 My Storage
 
-Simple Subfile program
+Simple Subfile program (using RPGLE)
 
 Physical File - CUSTPF
 
